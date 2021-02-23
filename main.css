@@ -1,10 +1,14 @@
 
 h1 {
-    color: red
+    color: red; 
+   font-size: large
+      
 }
 
 h2 {
-    color: blue
+    color: blue;
+    font-size: small
+        
 }
 
 body {
